@@ -1,10 +1,7 @@
 # CMS Based PHP Blog :fire:
-# About Me
-Hi, This is [Muhaddis](https://www,Muhaddis.info/) Cyber Security Researcher and Application Developer and Designer. 
-
 # CMS Based PHP Blog
 
-I've created CMS Based Blog as a practicing my Developing my skills assigned to me by my good friend Umar. (Thanks man it really helped me boost up my skills)
+I've created CMS Based Blog as a practicing my Developing my skills assigned to me.
 
 ## Guide
 
@@ -66,8 +63,3 @@ The Blog has one Frontend and one Backend. Every user can create and manage acco
  - Favicon
 
 and much more included...
-
-## New Recommendation or Suggestion
-
-You can easily suggest me or request me for new features via Github or any other resource. I'll do my best to implement it and get it running because why not. Thanks!
-Muhaddis.Info
